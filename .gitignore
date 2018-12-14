@@ -1,0 +1,7 @@
+.idea
+composer.lock
+*.log
+
+*.css.map
+.sass-cache
+/web/phpinfo.php
